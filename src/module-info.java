@@ -1,0 +1,2 @@
+module SprintQA_Java {
+}
